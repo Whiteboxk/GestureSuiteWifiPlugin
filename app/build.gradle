@@ -16,6 +16,13 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            def versionName = variant.versionName
+            outputFileName = "GestureSuiteWifiPlugin_${versionName}.apk"
+        }
+    }
+
     buildTypes {
         debug{
             minifyEnabled true
