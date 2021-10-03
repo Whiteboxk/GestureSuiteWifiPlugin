@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GestureSuiteWifiPlugin</string>
+    <string name="Wifi_off">Wifi off</string>
+    <string name="Wifi_on">Wifi on</string>
+    <string name="wifiIntentAction">gesturesuite.wifi.action</string>
+    <string name="IntentActionExtra">WifiAction</string>
+</resources>
