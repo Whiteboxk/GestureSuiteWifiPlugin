@@ -8,7 +8,7 @@ GestureSuiteWifiPlugin is able to change the wifi state because it's targeting A
 
 Steps to install:
 
-1. Download the GestureSuiteWifiPlugin_1.0.apk file that is at the root of the repository. You can use the link https://github.com/Whiteboxk/GestureSuiteWifiPlugin/raw/master/GestureSuiteWifiPlugin_1.0.apk
+1. Download the GestureSuiteWifiPlugin_1.0.apk file that is available in the releases section. You can use the link https://github.com/Whiteboxk/GestureSuiteWifiPlugin/releases/download/v1.0/GestureSuiteWifiPlugin_1.0.apk
 2. Open the downloaded file.
 3. Allow installation.
 
